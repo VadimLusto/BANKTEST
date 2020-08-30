@@ -11,6 +11,7 @@ public class TestBank {
         authorizationForm.usernameEnter("demo");
         authorizationForm.passwordEnter("demo");
         authorizationForm.clickButtonEnter();
+
     }
 
 
